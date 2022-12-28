@@ -1,0 +1,7 @@
+Hi there, I am Temporary Email Bot. I am here to help you with creating new temporary email, getting messages and so on.
+
+My commands:
+/help /start - information
+/new_email - create a new email account
+/get_all_messages_id - get list with all messages id
+/get_last_message - get last message
